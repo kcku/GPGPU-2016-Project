@@ -1,11 +1,11 @@
 # Compile
-$ cd CUDA_Rmath
-$ make all
-$ cd ..
-$ make all
+<p>$ cd CUDA_Rmath</p>
+<p>$ make all</p>
+<p>$ cd ..</p>
+<p>$ make all</p>
 
 # Run
-$ R CMD BATCH NDD-XXX.R
+<p>$ R CMD BATCH NDD-XXX.R</p>
 
 # View Profile
-$ R CMD Rprof NDD-XXX-prof
+<p>$ R CMD Rprof NDD-XXX-prof</p>
