@@ -1,7 +1,7 @@
 # Compile
 <p>$ cd CUDA_Rmath</p>
 <p>$ make all</p>
-<p>$ cd ..</p>
+<p>$ cd <strong>..</strong></p>
 <p>$ make all</p>
 
 # Run
